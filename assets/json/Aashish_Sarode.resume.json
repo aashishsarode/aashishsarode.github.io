@@ -1,0 +1,557 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Aashish Sarode",
+    "label": "MEXT Scholar 24' | MSS22 Alumni | Aerospace Engineer | Aerospace Graduate 21'",
+    "image": "",
+    "email": "sarode.aashish.004@s.kyushu-u.ac.jp",
+    "phone": "",
+    "url": "",
+    "summary": "Aerospace Engineer",
+    "location": {
+      "countryCode": "US",
+      "address": "Japan"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aashishsarode",
+        "url": "https://www.linkedin.com/in/aashishsarode/"
+      },
+      {
+        "network": "Twitter",
+        "username": "AashishSarode",
+        "url": "https://twitter.com/AashishSarode"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "International Space University",
+      "position": "Teaching Associate",
+      "startDate": "2023-06-30",
+      "endDate": "2023-08-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/21037",
+      "location": "São José dos Campos, São Paulo, Brazil"
+    },
+    {
+      "name": "Space Robotics Laboratory",
+      "position": "Research Intern",
+      "startDate": "2022-06-30",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "-To design Simulation-based space debris capturing motion control.\n-Design and improve the CAD model of the robotic arm for debris capture in Solidworks.\n-Create a bridge between Solidworks and MATLAB for motion capture.\n-Introduced new software (Blender) to the architecture to improve the end result of the\nsimulation.",
+      "url": "https://www.linkedin.com/company/10579539",
+      "location": "Sendai, Miyagi, Japan"
+    },
+    {
+      "name": "Tech Mahindra",
+      "position": "Student Trainee",
+      "startDate": "2020-09-30",
+      "endDate": "2021-02-28",
+      "highlights": [],
+      "summary": "- Worked on satellite projects to detect and collect data on space debris.\n- Worked on the Attitude Determination and Control System of satellite- to find a suitable trajectory design, working, hardware, sizing, weight estimation, and cost.\n- Learnt the various Astrodynamic terms and used them to design a trajectory model.",
+      "url": "https://www.linkedin.com/company/3067",
+      "location": "Pune, Maharashtra, India"
+    },
+    {
+      "name": "Aeolus AeroTech",
+      "position": "Student Intern",
+      "startDate": "2019-12-31",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "summary": "- Build a small Aero Club for students who are interested in Space Tech and to pursue their dreams as Aerospace Engineers or Astronomer.\n- Developed, designed and fabricated a prototype that can segregate cocoons by their gender determination.",
+      "url": "https://www.linkedin.com/company/1101247",
+      "location": "Bengaluru, Karnataka, India"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Indian Astrobiology Research Foundation",
+      "position": "Workshop Attendee (Life in Space (V.2) - The Conscious Universe)",
+      "startDate": "2020-02-28",
+      "endDate": "2020-02-28",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Cell for IPR Promotion and Management (CIPAM)",
+      "position": "Workshop Attendee",
+      "startDate": "2019-09-30",
+      "endDate": "2019-09-30",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "MIT ADT University",
+      "position": "Workshop Attendee (SolidWorks - 3D Modeling Software)",
+      "startDate": "2018-09-30",
+      "endDate": "2018-09-30",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Ezenith Education",
+      "position": "Workshop Attendee (Drone Workshop)",
+      "startDate": "2018-03-31",
+      "endDate": "2018-03-31",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Indian Astrobiology Research Foundation",
+      "position": "Workshop Attendee (Life in Space V.1)",
+      "startDate": "2017-11-30",
+      "endDate": "2017-11-30",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kyushu University",
+      "area": "",
+      "studyType": "Japanese Training for Advanced Studies",
+      "startDate": "2024-04-30",
+      "endDate": "2024-08-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "International Space University",
+      "area": "Space Studies",
+      "studyType": "Master of Science - MS",
+      "startDate": "2021-09-30",
+      "endDate": "2022-09-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "MIT ADT University",
+      "area": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2017-08-31",
+      "endDate": "2021-08-31",
+      "score": "",
+      "courses": [
+        "2080707 - Introduction to IOT"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Japanese Government (Monbukagakusho: MEXT) Scholarship",
+      "date": "2024-02-28",
+      "awarder": "Embassy of Japan",
+      "summary": "Awarded the Monbukagakusho (MEXT) Scholarship by the Japanese Government to cover my tuition and living expenses for the duration of my PhD research at Kyushu Institute of Technology."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Interplanetary Spacecraft and Satellite Engineering",
+      "issuer": "Udemy",
+      "startDate": "2019-08-31",
+      "url": "http://ude.my/UC-L50LRD19"
+    },
+    {
+      "name": "Astronautics & Space Technology for Future Human Missions",
+      "issuer": "Udemy",
+      "startDate": "2019-08-31",
+      "url": "http://ude.my/UC-BCU8QU33"
+    },
+    {
+      "name": "MATLAB Onramp",
+      "issuer": "MathWorks",
+      "startDate": "2019-08-31",
+      "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7870e529-8c27-4504-a8a4-deaa2ceeab2d"
+    },
+    {
+      "name": "The Joy of Computing Using Python",
+      "issuer": "NPTEL",
+      "startDate": "2018-10-31",
+      "url": "http://nptel.ac.in/noc"
+    },
+    {
+      "name": "Deep Learning Onramp",
+      "issuer": "MathWorks",
+      "startDate": "2019-08-31",
+      "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=96883153-8004-45d5-b395-8da532ababfe"
+    },
+    {
+      "name": "Simulink Onramp",
+      "issuer": "MathWorks",
+      "startDate": "2019-09-30",
+      "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9e93371c-bd48-4dfa-8a74-9aa30517c2f7"
+    },
+    {
+      "name": "Fundamentals of Digital Marketing",
+      "issuer": "Google Digital Unlocked",
+      "startDate": "2019-09-30",
+      "url": "https://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code"
+    },
+    {
+      "name": "Biosphere 2 Science for the Future of Our Planet",
+      "issuer": "Coursera",
+      "startDate": "2020-04-30",
+      "url": "http://coursera.org/verify/DQUTA3Z7CSG3"
+    },
+    {
+      "name": "Astronomy - State of the Art",
+      "issuer": "Udemy",
+      "startDate": "2019-10-31"
+    },
+    {
+      "name": "Machine Learning Onramp",
+      "issuer": "MathWorks",
+      "startDate": "2019-11-30",
+      "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=76a6fc09-5cca-43ba-a4c0-73cfc4574bb9"
+    }
+  ],
+  "publications": [
+    {
+      "name": "The Role of the Metaverse in the Future of the Space Sector",
+      "publisher": "International Astronautical Federation",
+      "releaseDate": "2023-10-05",
+      "summary": "This paper provides a comprehensive analysis of potential applications and impacts of Metaverse technologies in the space sector. The work is organized in several sections. The first part provides an overview of the current use of the Metaverse within the space sector resulting from a literature review and a market analysis. Second, this paper analyses existing applications and proposes suggestions for specific use cases spanning from space operations, engineering and design, astronaut training, space medicine, tourism, sustainability initiatives and public outreach. The following part elaborates on ethical aspects and the role of emerging space countries, governments and entrepreneurship. Finally, a road map for future implementation of the Metaverse in the space sector is provided. The paper further delves into the benefits and challenges of Metaverse integration. Benefits include enhanced visualization, efficient collaboration, inspiring educational experiences, and cost-effective training. However, challenges involve hardware limitations, user discomfort, network constraints and regulatory uncertainty. Finally, recommendations are presented for space organizations to incorporate Metaverse solutions into diverse domains through a phased, usercentric approach focused on tangible benefits and continuous improvement. If adopted judiciously, the Metaverse promises to revolutionize how space is explored, experienced, and understood.",
+      "url": "https://www.researchgate.net/publication/374386488_The_Role_of_the_Metaverse_in_the_Future_of_the_Space_Sector"
+    },
+    {
+      "name": "EX.PL.RE - Directed Energy Mission to a Nearby Star System",
+      "publisher": "International Astronautical Federation",
+      "releaseDate": "2022-09-22",
+      "summary": "The next frontier for humanity is beyond our solar system, embracing interstellar travel, to expand our knowledge of what is beyond our current scope of vision and understanding. This project outlines a Directed Energy mission to the Alpha Centauri star system, our neighboring solar system, as a technological proof of concept and scientific mission. This mission will utilize a laser array to propel a swarm of miniaturized light sail gram-scaled spacecraft into the interstellar medium at a fraction of the speed of light to travel the 25 trillion miles for a journey of approximately 20 years. During the journey, the scientific payload on the light sails will collect groundbreaking data and upon arrival at the Alpha Centauri system, will continue its scientific mission, to provide humanity with a glimpse of what may await us in space. The miniaturization of the scientific payloads, advancements in material science for the development of space worthy structures, along with incorporating efficient radioisotope thermal generators and autonomous operation systems will facilitate the success of this interstellar mission. An assessment of Alpha Centauri system will be conducted as the swarm of spacecraft reaches its destination and a better understanding of the exoplanets in that system will be the result. The questions will be answered as to if we can find another habitable planet for humanity in another solar system using the ancient methods of travel and exploration, a sail and some wind. We will come full circle in our quest to explore and be the first of its kind, not unlike the early explorers that set sail on the seas to find out what was beyond their scope of vision.",
+      "url": "https://www.researchgate.net/publication/373873398_EXPLRE_-_Directed_Energy_Mission_to_a_Nearby_Star_System"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spacecraft",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Space Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Aerospace Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Defence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering Judgment",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "3D Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Systems Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PTC Creo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arduino",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Effective Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arduino IDE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Aerospace",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Raspberry Pi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Space Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "STK",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research Projects",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LaTeX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laser Cutting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oculus",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering Drawings",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "3D Modeling Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "3D Printing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SOLIDWORKS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Metaverse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer-Aided Design (CAD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MATLAB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Japanese",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bitbucket",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SolidWorks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Japanese Culture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Intellectual Property",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multidisciplinary Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Blender",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "French"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Hindi"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Japanese"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Marathi"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "James Green",
+      "reference": "I really enjoyed working with you at the 2023 ISU summer session in Brazil.  You are very dedicated, highly competent, and resourceful.  Thanks to you 17 participants generated a tremendously useful report on the present and future use of the Metaverse in the space sector.  I think you have a very bright future ahead of you!   "
+    },
+    {
+      "name": "Kimberly Kimsanton Sofge",
+      "reference": "Mr. Aashish Sarode is an outstanding young talent currently attending the International Space University in France. As a colleague, Aashish is reliable and efficient. He is a pleasure to work with and a dependable team member. I would highly recommend Aashish on an project or opportunity within the space industry, as his presence in a team or office would provide maturity and experience beyond his years."
+    },
+    {
+      "name": "Charles Nzeussi",
+      "reference": "Mr. Aashish Sarode is one of the young talents I have been working with during my time at International Space University for almost 5 months now. He has shown a formidable efficiency and an exceptional dynamism. Essential link of the Team work, he was able to demonstrate his sense of high quality of work delivering, a developed team spirit and a very good mastery of tools whose expertise is observable by its multiple certification. I am happy to recommend him spontaneously for any future opportunities the space industry community can offer to him to enhance the growth of his career into space."
+    }
+  ],
+  "projects": [
+    {
+      "name": "The Role of the Metaverse in the Future of the Space Sector",
+      "startDate": "2023-07-31",
+      "summary": "This paper provides a comprehensive analysis of potential applications and impacts of Metaverse technologies in the space sector. The work is organized in several sections. The first part provides an overview of the current use of the Metaverse within the space sector resulting from a literature review and a market analysis. Second, this paper analyses existing applications and proposes suggestions for specific use cases spanning from space operations, engineering and design, astronaut training, space medicine, tourism, sustainability initiatives and public outreach. The following part elaborates on ethical aspects and the role of emerging space countries, governments and entrepreneurship. Finally, a road map for future implementation of the Metaverse in the space sector is provided. The paper further delves into the benefits and challenges of Metaverse integration. Benefits include enhanced visualization, efficient collaboration, inspiring educational experiences, and cost-effective training. However, challenges involve hardware limitations, user discomfort, network constraints and regulatory uncertainty. Finally, recommendations are presented for space organizations to incorporate Metaverse solutions into diverse domains through a phased, usercentric approach focused on tangible benefits and continuous improvement. If adopted judiciously, the Metaverse promises to revolutionize how space is explored, experienced, and understood.",
+      "url": null,
+      "endDate": "2023-08-31"
+    },
+    {
+      "name": "Direct Energy - Mission to the a Nearby Star System",
+      "startDate": "2021-11-30",
+      "summary": "The next frontier for humanity is beyond our solar system, embracing interstellar travel, to expand our knowledge of what is beyond our current scope of vision and understanding. This project outlines a mission to the Alpha Centauri system, our neighboring star system, as a technological proof of concept and scientific mission. This mission will utilize directed energy technology to propel spacecraft for a journey of approximately 20 years. During the journey, the scientific payloads will conduct groundbreaking research and upon reaching their destination, an assessment of the Alpha Centauri system to obtain a better understanding of the exoplanets in that system. This mission uses the ancient methods of travel and exploration, a sail and some wind, to find out what is beyond our scope of vision.",
+      "url": null,
+      "endDate": "2022-05-31"
+    },
+    {
+      "name": "Implementing the ESA Open Concurrent Design Tool (OCDT) at ISU",
+      "startDate": "2021-11-30",
+      "summary": "As the growing complexity of space missions increases, the traditional method to design a space mission can be very time-consuming and confusing. One of the drawbacks of this method was communicating with the team to develop very complex systems and waiting for various components to be physically built to move on to the next step. Moreover, the traditional method requires many documents to be shared among the team. So, to eliminate this hectic procedure, concurrent engineering was introduced where anyone within the organization or from inter-organization can come together and solve the complex mission in less time than the traditional method. ESA developed an Open Concurrent Design Tool (OCDT) that has been installed in their Concurrent Design Facility (CDF), which allows for one space to be shared by the different design teams of a space mission. Indeed, the CDF is a state-of-the-art facility where a team of experts from several disciplines designs the space mission. This report discussed how to use the OCDT tool in the CDF lab. To explain the important use of this tool with an example, a space mission is developed for a primary satellite in this report.",
+      "url": null,
+      "endDate": "2022-05-31"
+    },
+    {
+      "name": "Tierra-Luna by AstraLoop",
+      "startDate": "2022-03-31",
+      "summary": "AstraLoop is a transdisciplinary consulting company that aims to enhance space architectural projects’ experience on spatial habitation, sociocultural system studies and space accessibility. With this ambition, the orbital habitation team re-design and rebranded Orbital Assembly’s Voyager Station and bring forth the project Tierra-Luna.",
+      "url": null,
+      "endDate": "2022-04-30"
+    },
+    {
+      "name": "Trajectory Modelling of a satellite to GEO using Hohmann transfer and  Optimization using Particle Swarm Technique",
+      "startDate": "2020-09-30",
+      "summary": "In this project, an attempt was made to design the trajectory from the low earth orbit to the Geostationary Earth orbit using Hohman transfer; further, the particle swarm optimization techniques are explored to minimize the weight function.",
+      "url": null,
+      "endDate": "2021-06-30"
+    },
+    {
+      "name": "Design and Working Mechanism of Retractable Landing Leg for Reusable Launch Vehicle (RLV)",
+      "startDate": "2020-01-31",
+      "summary": null,
+      "url": null,
+      "endDate": "2020-07-31"
+    },
+    {
+      "name": "Design and Innovation of AgriTech Machine",
+      "startDate": "2019-12-31",
+      "summary": null,
+      "url": null,
+      "endDate": "2020-01-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
