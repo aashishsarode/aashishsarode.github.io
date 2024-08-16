@@ -1,24 +1,20 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Aashish Sarode",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "aashishsarode99@gmail.com",
+    "phone": "+91 7387075355",
+    "url": "https://aashishsarode.github.io",
+    
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "AashishSarode",
+        "url": "https://x.com/AashishSarode"
+        "network": "LinkedIn",
+        "username": "AashishSarode",
+        "url": "https://www.linkedin.com/in/aashishsarode/"
       }
     ]
   },
