@@ -359,7 +359,7 @@ filtered_bibtex_keywords:
     pdf,
     poster,
     preview,
-#    selected,
+    selected,
     slides,
     supp,
     video,
