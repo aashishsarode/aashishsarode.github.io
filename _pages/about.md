@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="http://www.mech.kyutech.ac.jp/srl/index_e.html">PhD Researcher, Space Robotics Lab.</a>
 
 profile:
   align: right
