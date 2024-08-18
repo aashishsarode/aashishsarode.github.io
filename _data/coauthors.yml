@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Green":
+  - firstname: ["James", "J."]
+    url: https://scholar.google.com/citations?hl=en&user=IfpcWcwAAAAJ
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Pereira":
+  - firstname: ["Maria Cecília", "M.C."]
+    url: https://scholar.google.com/citations?user=dEzCXrAAAAAJ&hl
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Abdala":
+  - firstname: ["Lucas Novelino", "L.N."]
+    url: https://scholar.google.com.br/citations?user=jSTzstMAAAAJ&hl
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Bellocine":
+  - firstname: ["Stephane", "S."]
+    url: https://www.stephanebellocine.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Costa":
+  - firstname: ["Inaldo", "I."]
+    url: https://scholar.google.com.br/citations?user=hDnXQHoAAAAJ&hl
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Fayet-Moore":
+  - firstname: ["Flávia", "F."]
+    url: https://scholar.google.com/citations?user=vf1xtw8AAAAJ
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Ghosh":
+  - firstname: ["Ayush", "A."]
+    url: https://www.linkedin.com/in/a-ghosh/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Hohenbühel":
+  - firstname: ["Marie-Louise", "M.-L."]
+    url: https://www.linkedin.com/in/hohenbuehel/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Reis":
+  - firstname: ["Jose Daniel", "J.D."]
+    url: http://lattes.cnpq.br/1490930836805141
+
+"Silva":
+  - firstname: ["Alexandre Ferreira da", "A.F."]
+    url: https://scholar.google.pt/citations?hl=en&user=WOB6KIoAAAAJ
