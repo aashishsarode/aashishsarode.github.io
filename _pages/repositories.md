@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories.html
-title: "Page not found"
+title: "repositories"
 description: "Looks like there has been a mistake. Nothing exists here."
 redirect: true
 ---
