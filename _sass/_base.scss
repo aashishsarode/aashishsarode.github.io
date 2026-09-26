@@ -572,6 +572,25 @@ footer.sticky-bottom {
   margin: 2rem 0;
 }
 
+.github-generated-assets {
+  display: grid;
+  gap: 1.25rem;
+  margin: 2rem 0 0.75rem;
+}
+
+.github-generated-assets img {
+  border: 1px solid var(--global-divider-color);
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.repository-refresh-note {
+  color: var(--global-text-color-light);
+  font-family: monospace;
+  font-size: 0.75rem;
+}
+
 .repo-card {
   border: 1px solid var(--global-divider-color);
   border-top: 3px solid var(--global-theme-color);

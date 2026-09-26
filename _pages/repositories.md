@@ -9,13 +9,12 @@ nav_order: 4
 
 This page collects the software and technical work I maintain alongside my research in space robotics.
 
-{% if site.data.repositories.github_repos %}
-  <div class="repositories-grid">
-    {% for repo in site.data.repositories.github_repos %}
-      {% include repository/repo.liquid repository=repo %}
-    {% endfor %}
-  </div>
-{% endif %}
+<div class="github-generated-assets">
+  <img src="{{ '/assets/generated/github-profile.svg' | relative_url }}" alt="GitHub profile summary for @aashishsarode">
+  <img src="{{ '/assets/generated/github-repositories.svg' | relative_url }}" alt="Selected GitHub repositories for @aashishsarode">
+</div>
+
+<p class="repository-refresh-note">Generated from the GitHub API by GitHub Actions and refreshed weekly.</p>
 
 <div class="repository-profile">
   <div>
