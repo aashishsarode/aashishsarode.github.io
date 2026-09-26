@@ -4,4 +4,11 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - aashishsarode/aashishsarode.github.io
+  - repository: aashishsarode/aashishsarode.github.io
+    name: Academic website
+    description: Personal academic website for research, publications, projects, and technical notes.
+    language: Jekyll / Liquid
+    topics:
+      - academic website
+      - space robotics
+      - research

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="http://www.mech.kyutech.ac.jp/srl/index_e.html">PhD Student, Space Robotics Lab.</a>
+subtitle: <span class="mission-label">ORBITAL MANIPULATION / RESEARCH PROFILE</span>
 
 profile:
   align: right
@@ -19,15 +19,27 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the **Space Robotics Laboratory** at the Kyushu Institute of Technology (Kyutech). My research focuses on the dynamics and control of **casting manipulation** systems for on-orbit applications. 
+I am a doctoral researcher in the [Space Robotics Laboratory](https://www.mech.kyutech.ac.jp/srl/index_e.html) at Kyushu Institute of Technology. My work focuses on the dynamics and control of **casting manipulation** systems for on-orbit applications.
 
-Currently, I am investigating how flexible manipulators can be implemented in microgravity environments. My work involves developing high-fidelity simulation models using **MATLAB** and **Project Chrono**, as well as validating these models through experimental hardware setups.
+Currently, I investigate how flexible manipulators can operate in microgravity. I build high-fidelity models with **MATLAB** and **Project Chrono**, then validate them through experimental hardware and telemetry workflows.
 
-Beyond my core research, I am technically involved in the development of **Earth Observation (EO) satellites** for Uzbekistan. I also maintain a strong interest in systems architecture and DevOps, managing a self-hosted home lab environment using **Proxmox** and **Docker** to streamline research workflows.
+Alongside my research, I contribute to **Earth observation satellite** development for Uzbekistan and work on systems architecture and DevOps with **Proxmox** and **Docker**.
 
-I am currently based in Kitakyushu, Japan, where I am also working towards my JLPT N3 certification.
+I am based in Kitakyushu, Japan, and am currently working toward JLPT N3.
 
-### 🛠️ Research Interests
-* **Space Robotics:** Casting manipulation, tethered systems, and non-prehensile manipulation.
-* **Dynamics & Control:** Multibody dynamics simulation (Chrono, MATLAB).
-* **Systems Engineering:** EO Satellite development and embedded systems.
+<div class="research-status" aria-label="Current research status">
+  <span><b>01</b> PhD research</span>
+  <span><b>02</b> Space robotics</span>
+  <span><b>03</b> Kyushu, Japan</span>
+</div>
+
+<div class="mt-4">
+  <a class="btn btn-primary" href="{{ '/cv/' | relative_url }}">View my CV</a>
+  <a class="btn btn-outline-primary ml-2" href="{{ '/publications/' | relative_url }}">Explore publications</a>
+</div>
+
+<div class="research-grid">
+  <div><span class="research-number">01</span><h2>Manipulation</h2><p>Casting, tethered systems, and non-prehensile manipulation for orbital missions.</p></div>
+  <div><span class="research-number">02</span><h2>Dynamics &amp; control</h2><p>Multibody simulation, trajectory design, and hardware validation in microgravity.</p></div>
+  <div><span class="research-number">03</span><h2>Space systems</h2><p>Satellite architecture, embedded systems, and the engineering needed to fly reliable hardware.</p></div>
+</div>
